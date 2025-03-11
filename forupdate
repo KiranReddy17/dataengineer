@@ -1,0 +1,2 @@
+F-strings (formatted string literals) are a way to format strings in Python, which was introduced in Python 3.6. 
+They make embedding expressions inside string literals easier and cleaner using curly braces {}.
